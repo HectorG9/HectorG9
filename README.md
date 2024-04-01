@@ -4,7 +4,8 @@
 - 💞 Procuro colaborar com qualquer serviço que me forneça experiência.
 - 📫 Como Entrar em contato comigo? segue meu E-mail: hector.guedesmonteiro@gmail.com
 - Whatsapp: (22) 997466322
-- ⚡ Fun fact: Eu sou o Batman. 🦇
+- ⚡ Fun fact: Aluno Mais fraco do Senai!
+-   Eu sou o Batman. 🦇
 <div align="center">
   <a href="https://github.com/HectorG9">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HectorG9&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
